@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST221: Colonial Latin and South America"
+course_description: "A detailed introduction to the history of Latin and South America from the European discovery to the 19th century, with emphasis on indigenous Americans and European colonizers’ interactions and exchanges."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Conquest of the Americas** <span id="2"></span> 
 *Spanish explorers established the first permanent settlements in the
 Americas on the Caribbean island of Hispanola in the early 1500s.  Over

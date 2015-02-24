@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST221: Colonial Latin and South America"
+course_description: "A detailed introduction to the history of Latin and South America from the European discovery to the 19th century, with emphasis on indigenous Americans and European colonizers’ interactions and exchanges."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Colonial Society** <span id="5"></span> 
 *Caste and social standing structured Spanish colonial society in the
 Americas.  Clear social distinctions existed between European settlers,

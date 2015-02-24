@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST221: Colonial Latin and South America"
+course_description: "A detailed introduction to the history of Latin and South America from the European discovery to the 19th century, with emphasis on indigenous Americans and European colonizers’ interactions and exchanges."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Crisis and Revolution** <span id="7"></span> 
 *The French Revolution and the resulting European political and military
 crisis of the 1790s and 1800s had a profound impact on Spanish and

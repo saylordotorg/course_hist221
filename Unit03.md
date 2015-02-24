@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST221: Colonial Latin and South America"
+course_description: "A detailed introduction to the history of Latin and South America from the European discovery to the 19th century, with emphasis on indigenous Americans and European colonizers’ interactions and exchanges."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Colonization and Settlement** <span id="3"></span> 
 *As conquistadors gradually established Spanish military control over
 the Americas in the 16<sup>th</sup> and early 17<sup>th</sup> centuries,

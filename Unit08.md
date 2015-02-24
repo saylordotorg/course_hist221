@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST221: Colonial Latin and South America"
+course_description: "A detailed introduction to the history of Latin and South America from the European discovery to the 19th century, with emphasis on indigenous Americans and European colonizers’ interactions and exchanges."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: The End of an Empire** <span id="8"></span> 
 *By the second decade of the 19<sup>th</sup> century, Spain had lost
 political control of its vast colonial empire in the Americas.  Only the

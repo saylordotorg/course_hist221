@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST221: Colonial Latin and South America"
+course_description: "A detailed introduction to the history of Latin and South America from the European discovery to the 19th century, with emphasis on indigenous Americans and European colonizers’ interactions and exchanges."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Colonial Economy and Trade Networks** <span id="4"></span> 
 *The promise of gold and silver treasures lured early Spanish explorers
 and settlers to the Americas, but few colonists found easy riches. 

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST221: Colonial Latin and South America"
+course_description: "A detailed introduction to the history of Latin and South America from the European discovery to the 19th century, with emphasis on indigenous Americans and European colonizers’ interactions and exchanges."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: The Atlantic World in the Late 15th Century** <span
 id="1"></span> 
 *The late 15<sup>th</sup> century was a time of great political,
