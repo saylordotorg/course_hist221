@@ -155,3 +155,4 @@ Subunit 1.2 (a total of 16 hours) on Tuesday and Wednesday night, etc.
 - [Unit 7](https://legacy.saylor.org/hist221/Unit07/)
 - [Unit 8](https://legacy.saylor.org/hist221/Unit08/)
 - [Unit 9](https://legacy.saylor.org/hist221/Unit09/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/HIST/HIST221/HIST221-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/HIST/HIST221/HIST221-FinalExam-Answers.html)
