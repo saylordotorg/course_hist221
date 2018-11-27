@@ -98,7 +98,7 @@ Upon successful completion of this unit, the student will be able to:
     True History of the Conquest of New Spain"**
     Link: The Saylor Foundation's "[Bernal Díaz del Castillo’s True
     History of the Conquest of New
-    Spain](http://www.saylor.org/site/wp-content/uploads/2012/02/HIST221-Subunit-2.1-Study-Questions-for-Bernal-Diaz-FINAL.pdf)"
+    Spain](https://resources.saylor.org/archived/wp-content/uploads/2012/02/HIST221-Subunit-2.1-Study-Questions-for-Bernal-Diaz-FINAL.pdf)"
     (PDF)  
         
      Instructions: Please complete the linked assessment to help in your
@@ -107,7 +107,7 @@ Upon successful completion of this unit, the student will be able to:
      When you are done, please check your work against The Saylor
     Foundation's “[Guide to Responding: Bernal Díaz del Castillo’s True
     History of the Conquest of New
-    Spain](http://www.saylor.org/site/wp-content/uploads/2012/02/HIST221-Subunit-2.1-Reading-Guide-to-Bernal-Diaz-FINAL.pdf)."
+    Spain](https://resources.saylor.org/archived/wp-content/uploads/2012/02/HIST221-Subunit-2.1-Reading-Guide-to-Bernal-Diaz-FINAL.pdf)."
     (PDF)
 
 **2.1.1 Hernán Cortés** <span id="2.1.1"></span> 
@@ -154,12 +154,12 @@ Upon successful completion of this unit, the student will be able to:
     Link: The Saylor Foundation’s “[Study Questions for Hernan Cortes’
     ‘Second Letter to Charles V, 1520’ and ‘An Aztec Account of the
     Conquest of
-    Mexico](http://www.saylor.org/site/wp-content/uploads/2012/07/HIST221-Subunit-2.1.2-Study-Questions-Cortes-FINAL.pdf)’”
+    Mexico](https://resources.saylor.org/archived/wp-content/uploads/2012/07/HIST221-Subunit-2.1.2-Study-Questions-Cortes-FINAL.pdf)’”
     (PDF)  
         
      Instructions: Please complete the questions in the assessment. You
     can check your answers against the "[Guide to
-    Responding](http://www.saylor.org/site/wp-content/uploads/2012/07/HIST221-Subunit-2.1.2-Guide-to-Responding-Cortes-FINAL.pdf%20)"
+    Responding](https://resources.saylor.org/archived/wp-content/uploads/2012/07/HIST221-Subunit-2.1.2-Guide-to-Responding-Cortes-FINAL.pdf%20)"
     (PDF). This assessment should take about 1 hour to complete.
 
 **2.1.3 March to Tenochtitlan** <span id="2.1.3"></span> 
@@ -246,12 +246,12 @@ Upon successful completion of this unit, the student will be able to:
     Link: The Saylor Foundation’s “[Study Questions for ‘Hernando
     Pizarro on the Conquest of the Incas’ and Pedro de Cieza de Leon’s
     ‘Chronicles of the Incas,
-    1540](http://www.saylor.org/site/wp-content/uploads/2012/04/HIST221-OC-2.2.2Pizarro-Cieza-FINAL.pdf)’”
+    1540](https://resources.saylor.org/archived/wp-content/uploads/2012/04/HIST221-OC-2.2.2Pizarro-Cieza-FINAL.pdf)’”
     (PDF)  
         
      Instructions: Please complete the questions in the assessment. You
     can check your answers against the "[Guide to
-    Responding](http://www.saylor.org/site/wp-content/uploads/2012/04/HIST221-OC-2.2.2Pizarro-Cieza-GTR-FINAL.pdf)"
+    Responding](https://resources.saylor.org/archived/wp-content/uploads/2012/04/HIST221-OC-2.2.2Pizarro-Cieza-GTR-FINAL.pdf)"
     (PDF). This assessment should take about 1 hour to complete.
 
 **2.2.3 Spanish Victory** <span id="2.2.3"></span> 
@@ -275,7 +275,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: Concepcion Saenz-Camba’s “The Atlantic World,
     1492-1600”**
     Link: Concepcion Saenz-Camba’s “[The Atlantic World,
-    1492-1600](http://www.saylor.org/site/wp-content/uploads/2012/04/HIST-Atlantic-World-1492-1600-OC-FINAL.pdf)”
+    1492-1600](https://resources.saylor.org/archived/wp-content/uploads/2012/04/HIST-Atlantic-World-1492-1600-OC-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please read the section titled “The First Atlantic
@@ -387,7 +387,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: Concepcion Saenz-Camba’s “The Atlantic World,
     1492-1600”**
     Link: Concepcion Saenz-Camba’s “[The Atlantic World,
-    1492-1600](http://www.saylor.org/site/wp-content/uploads/2012/04/HIST-Atlantic-World-1492-1600-OC-FINAL.pdf)”
+    1492-1600](https://resources.saylor.org/archived/wp-content/uploads/2012/04/HIST-Atlantic-World-1492-1600-OC-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please read the section titled “The Columbian
