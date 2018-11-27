@@ -379,12 +379,12 @@ id="7.3.3"></span> 
 
 -   **Assessment: The Saylor Foundation’s “Bolivar”**
     Link: The Saylor Foundation’s
-    “[Bolivar](http://www.saylor.org/site/wp-content/uploads/2012/05/HIST221-OC-Bolivar-FINAL.pdf)”
+    “[Bolivar](https://resources.saylor.org/archived/wp-content/uploads/2012/05/HIST221-OC-Bolivar-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please complete the questions in the assessment.  You
     can check your answers against the "[Guide to
-    Responding](http://www.saylor.org/site/wp-content/uploads/2012/05/HIST221-OC-Bolivar-GTR-FINAL.pdf)."
+    Responding](https://resources.saylor.org/archived/wp-content/uploads/2012/05/HIST221-OC-Bolivar-GTR-FINAL.pdf)."
     (PDF)  For more information about the life and work
     of Simón Bolívar, please visit the University of Florida's Digital
     Collections to read Petre F. Loraine’s “Simon Bolivar
