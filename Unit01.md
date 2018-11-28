@@ -49,7 +49,7 @@ Upon successful completion of this unit, students will be able to:
 -   **Reading: Concepcion Saenz-Camba’s “The Atlantic World,
     1492-1600”**
     Link: Concepcion Saenz-Camba’s “[The Atlantic World,
-    1492-1600](https://resources.saylor.org/archived/wp-content/uploads/2012/04/HIST-Atlantic-World-1492-1600-OC-FINAL.pdf)”
+    1492-1600](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/HIST-Atlantic-World-1492-1600-OC-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please read the sections titled “Introduction” and
@@ -152,12 +152,12 @@ id="1.1.1"></span> 
 -   **Assessment: The Saylor Foundation’s “Study Questions: Christopher
     Columbus”**
     Link: The Saylor Foundation’s “[Study Questions: Christopher
-    Columbus](https://resources.saylor.org/archived/wp-content/uploads/2012/01/HIST221-Subunit-1.1.3-Study-Questions-for-Christopher-Columbus-FINAL.pdf)”
+    Columbus](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/01/HIST221-Subunit-1.1.3-Study-Questions-for-Christopher-Columbus-FINAL.pdf)”
     (PDF)  
       
      Instructions: Please complete the entire assessment.  You can check
     your answers against the Saylor Foundation’s [Reading
-    Guide](https://resources.saylor.org/archived/wp-content/uploads/2012/02/HIST221-Subunit-1.1.3-Reading-Guide-Christopher-Columbus-FINAL.pdf).
+    Guide](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/HIST221-Subunit-1.1.3-Reading-Guide-Christopher-Columbus-FINAL.pdf).
     (PDF)
 
 **1.2 Africa** <span id="1.2"></span> 
@@ -253,7 +253,7 @@ id="1.1.1"></span> 
 **1.3.1 Amerindian Civilizations** <span id="1.3.1"></span> 
 -   **Reading: The Saylor Foundation’s “Amerindian Civilizations”**
     Links: The Saylor Foundation’s [“Amerindian
-    Civilizations”](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST221-1.3.1-Amerindian-Civilizations-FINAL.pdf)
+    Civilizations”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST221-1.3.1-Amerindian-Civilizations-FINAL.pdf)
     (PDF)  
         
      Instructions: Please read the entirety of these pages to gain an

@@ -99,7 +99,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: Concepcion Saenz-Camba’s “The Atlantic World,
     1492-1600”**
     Link: Concepcion Saenz-Camba’s “[The Atlantic World,
-    1492-1600](https://resources.saylor.org/archived/wp-content/uploads/2012/04/HIST-Atlantic-World-1492-1600-OC-FINAL.pdf)”
+    1492-1600](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/HIST-Atlantic-World-1492-1600-OC-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please read the sections titled “The Atlantic Slave
@@ -203,12 +203,12 @@ id="4.2.3"></span> 
     Link: The Saylor Foundation’s “[Study Questions for Brinch and
     Prentiss’s ‘The Blind African Slave, or Memoirs of Boyreau Brinch,
     Nicknamed Jeffrey
-    Brace](https://resources.saylor.org/archived/wp-content/uploads/2012/05/HIST221-OC-4.2.3-BrinchPrentiss-FINAL.pdf)’”
+    Brace](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/05/HIST221-OC-4.2.3-BrinchPrentiss-FINAL.pdf)’”
     (PDF)  
         
      Instructions: Please complete the questions in the assessment. You
     can check your answers against the "[Guide to
-    Responding](https://resources.saylor.org/archived/wp-content/uploads/2012/05/HIST221-OC-4.2.3-BrinchPrentiss-GTR-FINAL.pdf)"
+    Responding](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/05/HIST221-OC-4.2.3-BrinchPrentiss-GTR-FINAL.pdf)"
     (PDF). For more information about the life and work
     of Boyrereau Brinch, also known as Jeffrey Brace, please visit
     the Poultney Historical Society
