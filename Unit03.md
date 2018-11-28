@@ -176,12 +176,12 @@ Upon successful completion of this unit, the student will be able to:
     Link: The Saylor Foundation’s “[Study Questions for ‘The New Laws of
     the Indies, 1542’ and Bartolome de Las Casas’s ‘A Short Account of
     the Destruction of the
-    Indies’](https://resources.saylor.org/archived/wp-content/uploads/2012/04/HIST221-OC-NewLaws1542-FINAL.pdf)”
+    Indies’](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/HIST221-OC-NewLaws1542-FINAL.pdf)”
     (PDF)  
       
      Instructions: Please complete the questions in the assessment. You
     can check your answers against the "[Guide to
-    Responding](https://resources.saylor.org/archived/wp-content/uploads/2012/04/HIST221-OC-NewLaws1542-GTR-FINAL.pdf)"
+    Responding](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/HIST221-OC-NewLaws1542-GTR-FINAL.pdf)"
     (PDF). For more information about the life and work of Father
     Bartolome De Las Casas, please visit University of Alabama, History
     Department's "Bartolome De Las Casas" (http://www.lascasas.org/).
